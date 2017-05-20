@@ -1,0 +1,31 @@
+.red{
+	color: red; 
+}
+.blue{
+	color: blue; 
+}
+.yellow{
+	color:yellow;
+}
+.box{
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	height: 250px;
+	width: 251px; 
+	background-color: white;
+}
+
+h1{
+	font-family: cursive;
+	color: grey;
+}
+
+p{
+	font-family: cursive;
+}
+
+body{background-color: aquamarine}
+
+
